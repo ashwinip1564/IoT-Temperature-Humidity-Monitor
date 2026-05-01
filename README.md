@@ -16,5 +16,5 @@ Values are displayed in real-time graphs.
 ## Output
 Temperature and humidity data shown in ThingSpeak dashboard.
 
-##Project Video
+## Project Video
 [click here to watch](https://drive.google.com/file/d/1d_ahTq7ObXXhWrAQjiwZthkNu_aAPDxr/view?usp=drivesdk)
