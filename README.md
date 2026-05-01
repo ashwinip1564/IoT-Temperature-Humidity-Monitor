@@ -1,7 +1,7 @@
 # IoT Temperature & Humidity Monitor
 
 ## Description
-This project monitors temperature and humidity using DHT sensor and ESP8266.
+This IoT-based temperature and humidity monitoring system uses an ESP8266 and DHT11 sensor to collect environmental data. The device connects to Wi-Fi and sends real-time readings to the cloud (ThingSpeak). The data can be viewed remotely through graphs and dashboards. It demonstrates basic IoT data monitoring and visualization.
 
 ## Components Used
 - ESP8266 NodeMCU
@@ -17,4 +17,4 @@ Values are displayed in real-time graphs.
 Temperature and humidity data shown in ThingSpeak dashboard.
 
 ##Project Video
-https://drive.google.com/file/d/1d_ahTq7ObXXhWrAQjiwZthkNu_aAPDxr/view?usp=drivesdk [click here to watch the video]
+[click here to watch](https://drive.google.com/file/d/1d_ahTq7ObXXhWrAQjiwZthkNu_aAPDxr/view?usp=drivesdk)
